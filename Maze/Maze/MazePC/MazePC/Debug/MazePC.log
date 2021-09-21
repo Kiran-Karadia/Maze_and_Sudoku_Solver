@@ -1,0 +1,10 @@
+﻿  Maze.c
+h:\maze\maze\mazepc\mazepc\maze.c(45): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+h:\maze\maze\mazepc\mazepc\maze.c(44): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  h:\maze\maze\mazepc\mazepc\maze.c(44): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  h:\maze\maze\mazepc\mazepc\maze.c(44): note: the missing variadic argument 2 is required by format string '%c'
+  h:\maze\maze\mazepc\mazepc\maze.c(44): note: this argument is used as a buffer size
+h:\maze\maze\mazepc\mazepc\maze.c(99): warning C4020: 'malloc': too many actual parameters
+h:\maze\maze\mazepc\mazepc\maze.c(249): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+  MazePC.vcxproj -> H:\Maze\Maze\MazePC\Debug\MazePC.exe
+  MazePC.vcxproj -> H:\Maze\Maze\MazePC\Debug\MazePC.pdb (Partial PDB)
